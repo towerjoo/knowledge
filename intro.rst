@@ -9,3 +9,8 @@ Introduction to Social Game
 
     * test code
     * performance tuning
+
+Get Started
+=============
+
+* start from here
