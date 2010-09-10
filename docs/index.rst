@@ -30,6 +30,7 @@ Contents:
    :maxdepth: 2
 
    intro
+   python/python
 
 Indices and tables
 ==================
