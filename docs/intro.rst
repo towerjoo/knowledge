@@ -5,10 +5,7 @@ Introduction to Social Game
     
     Social game is a great area.
 
-.. todo::
-
-    * test code
-    * performance tuning
+We need to use the standard marks.
 
 Get Started
 ---------------
