@@ -29,8 +29,9 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-   intro
-   python/python
+   about
+   python/toc
+   management/toc
 
 Indices and tables
 ==================

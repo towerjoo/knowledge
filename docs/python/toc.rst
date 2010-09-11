@@ -10,4 +10,4 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-   web/web
+   web/toc
