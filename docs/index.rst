@@ -32,6 +32,7 @@ Contents:
    about
    python/toc
    management/toc
+   blog/toc
 
 Indices and tables
 ==================
