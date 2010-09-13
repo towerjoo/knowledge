@@ -6,7 +6,7 @@ Django is great
 tips
 =========
 
-.. note:
+.. note::
 
     when you got the queryset from calling *ModelClass.objects.filter(condition)* and 
     refer the element using [] and save it at last, which **WON'T hit the database**, and 
